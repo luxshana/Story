@@ -46,7 +46,7 @@ export default function ButtonAppBar() {
       link: "https://www.youtube.com/embed/JcxVoV1ah78?si=wxBLlk597BbD4Cuu",
       head:'Best Education',
       button:<FavoriteBorderIcon />,
-      count: 22,
+      count: 13,
 
     },
     {
@@ -54,7 +54,7 @@ export default function ButtonAppBar() {
       link: "https://www.youtube.com/embed/WDCGLmpRxtI?si=0q05nt2SmjgQsVgR",
       head:'A Life Lesson',
       button:<FavoriteBorderIcon />,
-      count: 22,
+      count: 19,
 
     },
     {
@@ -62,7 +62,7 @@ export default function ButtonAppBar() {
       link: "https://www.youtube.com/embed/u-yERieBl9M?si=wwXq0mYCMY1c8vEz",
       head:'The Great Honour',
       button:<FavoriteBorderIcon />,
-      count: 22,
+      count: 2,
 
 
     },
@@ -71,14 +71,14 @@ export default function ButtonAppBar() {
       link: "https://www.youtube.com/embed/OrqlDiqqzpE?si=hTU1YJusJXHhXrLi",
       head:'Lesson of Rulers',
       button:<FavoriteBorderIcon />,
-      count: 22,
+      count: 104,
     },
     {
       id: 5,
       link: "https://www.youtube.com/embed/sOK5pgUnzSE?si=5vEzu5zSOPEpixo0",
       head:'True Justice',
       button:<FavoriteBorderIcon />,
-      count: 22,
+      count: 12,
     },
     {
       id: 6,

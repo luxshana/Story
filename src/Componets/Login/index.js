@@ -118,9 +118,9 @@ function SignInSide() {
               flexDirection: "column",
               alignItems: "center",
             }}>
-            {/* <Avatar sx={{ m: 1, bgcolor: 'secondary.main' }}>
+            <Avatar sx={{ m: 1, bgcolor: '#3B3486' }}>
               <LockOutlinedIcon />
-            </Avatar> */}
+            </Avatar>
             <Typography component="h1" variant="h5" sx={{ color: "#F8E559" }}>
               {signin ? "Sign in" : "Sign up"}
             </Typography>
